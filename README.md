@@ -1,2 +1,2 @@
 # AI-BiasBuster
-This is an interactive, educational tool for detecting and detecting biases in AI-generated text using small transformer models. Features counterfactual data augmentation, robust evaluation, and efficient, real-world-ready performance.
+This is an interactive, educational tool for detecting and mitigating biases in AI-generated text using open-source models like DistilBERT. This project is designed for learners and practitioners, combining practical ML techniques with responsible AI practices.
